@@ -1,0 +1,252 @@
+@prefix croidioms: <http://croidioms.hr/> .
+@prefix liden: <http://lid.aksw.org/en/> .
+@prefix lidit: <http://lid.aksw.org/it/> .
+@prefix lidpt: <http://lid.aksw.org/pt/> .
+@prefix lidtr: <http://lid.aksw.org/tr/> .
+@prefix vartrans: <http://www.w3.org/ns/lemon/vartrans#> .
+
+lidtr:a_cold_day_in_hell_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:a_cold_day_in_hell_sense ;
+    vartrans:target croidioms:LexicalSense_1236_0 .
+
+lidtr:add_insult_to_injury_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:add_insult_to_injury_sense ;
+    vartrans:target croidioms:LexicalSense_1538_r_0_1 .
+
+lidtr:all_in_the_same_boat_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:all_in_the_same_boat_sense ;
+    vartrans:target croidioms:LexicalSense_819_0 .
+
+lidtr:alle_calende_greche_trans_it_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidit:alle_calende_greche_sense ;
+    vartrans:target croidioms:LexicalSense_1236_0 .
+
+lidtr:arm_and_a_leg_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:arm_and_a_leg_sense ;
+    vartrans:target croidioms:LexicalSense_1222_1 .
+
+lidtr:as_old_as_the_hills_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:as_old_as_the_hills_sense ;
+    vartrans:target croidioms:LexicalSense_1052_0 .
+
+lidtr:avere_la_botte_piena_e_la_moglie_ubriaca_trans_it_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidit:avere_la_botte_piena_e_la_moglie_ubriaca_sense ;
+    vartrans:target croidioms:LexicalSense_1198_0 .
+
+lidtr:avere_le_mani_in_pasta_trans_it_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidit:avere_le_mani_in_pasta_sense ;
+    vartrans:target croidioms:LexicalSense_1516_r_0_1 .
+
+lidtr:beat_around_the_bush_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:beat_around_the_bush_sense ;
+    vartrans:target croidioms:LexicalSense_1284_0 .
+
+lidtr:bet_your_bottom_dollar_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:bet_your_bottom_dollar_sense ;
+    vartrans:target croidioms:LexicalSense_993_0 .
+
+lidtr:con_lacqua_alla_gola_trans_it_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidit:con_lacqua_alla_gola_sense ;
+    vartrans:target croidioms:LexicalSense_1070_0 .
+
+lidtr:custa_os_olhos_da_cara_trans_pt_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidpt:custa_os_olhos_da_cara_sense ;
+    vartrans:target croidioms:LexicalSense_1222_1 .
+
+lidtr:e_andato_tutto_liscio_come_lolio_trans_it_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidit:e_andato_tutto_liscio_come_lolio_sense ;
+    vartrans:target croidioms:LexicalSense_1191_0 .
+
+lidtr:e_canja_de_galinha_trans_pt_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidpt:e_canja_de_galinha_sense ;
+    vartrans:target croidioms:LexicalSense_985_0 .
+
+lidtr:e_facile_come_rubare_le_caramelle_a_un_bambino_trans_it_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidit:e_facile_come_rubare_le_caramelle_a_un_bambino_sense ;
+    vartrans:target croidioms:LexicalSense_985_0 .
+
+lidtr:essere_al_verde_trans_it_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidit:essere_al_verde_sense ;
+    vartrans:target croidioms:LexicalSense_1342_0 .
+
+lidtr:essere_rosso_come_un_peperone_trans_it_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidit:essere_rosso_come_un_peperone_sense ;
+    vartrans:target croidioms:LexicalSense_1564_1 .
+
+lidtr:estamos_no_mesmo_barco_trans_pt_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidpt:estamos_no_mesmo_barco_sense ;
+    vartrans:target croidioms:LexicalSense_819_0 .
+
+lidtr:estar_duro_trans_pt_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidpt:estar_duro_sense ;
+    vartrans:target croidioms:LexicalSense_1342_0 .
+
+lidtr:fall_between_two_stools_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:fall_between_two_stools_sense ;
+    vartrans:target croidioms:LexicalSense_1521_0 .
+
+lidtr:have_two_pennies_to_rub_together_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:have_two_pennies_to_rub_together_sense ;
+    vartrans:target croidioms:LexicalSense_1144_0 .
+
+lidtr:head_over_heels_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:head_over_heels_sense ;
+    vartrans:target croidioms:LexicalSense_1179_r_0_1 .
+
+lidtr:hot_water_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:hot_water_sense ;
+    vartrans:target croidioms:LexicalSense_1070_0 .
+
+lidtr:in_dire_straits_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:in_dire_straits_sense ;
+    vartrans:target croidioms:LexicalSense_758_0 .
+
+lidtr:ir_para_o_saco_trans_pt_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidpt:ir_para_o_saco_sense ;
+    vartrans:target croidioms:LexicalSense_1017_0 .
+
+lidtr:kick_the_bucket_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:kick_the_bucket_sense ;
+    vartrans:target croidioms:LexicalSense_1017_0 .
+
+lidtr:kill_two_birds_with_one_stone_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:kill_two_birds_with_one_stone_sense ;
+    vartrans:target croidioms:LexicalSense_1434_0 .
+
+lidtr:la_goccia_che_fa_traboccare_il_vaso_trans_it_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidit:la_goccia_che_fa_traboccare_il_vaso_sense ;
+    vartrans:target croidioms:LexicalSense_1538_r_0_1 .
+
+lidtr:lasciare_questa_terra_trans_it_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidit:lasciare_questa_terra_sense ;
+    vartrans:target croidioms:LexicalSense_1017_0 .
+
+lidtr:look_like_a_million_dollars_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:look_like_a_million_dollars_sense ;
+    vartrans:target croidioms:LexicalSense_1046_0 .
+
+lidtr:lose_your_shirt_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:lose_your_shirt_sense ;
+    vartrans:target croidioms:LexicalSense_1265_r_0_1 .
+
+lidtr:mancargli_qualche_rotella_trans_it_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidit:mancargli_qualche_rotella_sense ;
+    vartrans:target croidioms:LexicalSense_1360_0 .
+
+lidtr:matar_dois_coelhos_com_uma_cajadada_so_trans_pt_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidpt:matar_dois_coelhos_com_uma_cajadada_so_sense ;
+    vartrans:target croidioms:LexicalSense_1434_0 .
+
+lidtr:muito_cacique_para_pouco_indio_trans_pt_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidpt:muito_cacique_para_pouco_indio_sense ;
+    vartrans:target croidioms:LexicalSense_1516_r_0_1 .
+
+lidtr:nem_que_a_vaca_tussa_trans_pt_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidpt:nem_que_a_vaca_tussa_sense ;
+    vartrans:target croidioms:LexicalSense_1235_0 .
+
+lidtr:not_playing_with_a_full_deck_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:not_playing_with_a_full_deck_sense ;
+    vartrans:target croidioms:LexicalSense_768_0 .
+
+lidtr:off_ones_rocker_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:off_ones_rocker_sense ;
+    vartrans:target croidioms:LexicalSense_1360_0 .
+
+lidtr:out_of_the_blue_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:out_of_the_blue_sense ;
+    vartrans:target croidioms:LexicalSense_1509_0 .
+
+lidtr:packed_in_like_sardines_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:packed_in_like_sardines_sense ;
+    vartrans:target croidioms:LexicalSense_1456_r_0_2 .
+
+lidtr:piece_of_cake_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:piece_of_cake_sense ;
+    vartrans:target croidioms:LexicalSense_985_0 .
+
+lidtr:prendere_due_piccioni_con_una_fava_trans_it_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidit:prendere_due_piccioni_con_una_fava_sense ;
+    vartrans:target croidioms:LexicalSense_1434_0 .
+
+lidtr:quando_gli_asini_voleranno_trans_it_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source lidit:quando_gli_asini_voleranno_sense ;
+    vartrans:target croidioms:LexicalSense_1235_0 .
+
+lidtr:red_in_the_face_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:red_in_the_face_sense ;
+    vartrans:target croidioms:LexicalSense_1564_1 .
+
+lidtr:take_it_easy_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:take_it_easy_sense ;
+    vartrans:target croidioms:LexicalSense_1200_0 .
+
+lidtr:to_be_broke_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:to_be_broke_sense ;
+    vartrans:target croidioms:LexicalSense_1342_0 .
+
+lidtr:to_have_your_cake_and_eat_it_too_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:to_have_your_cake_and_eat_it_too_sense ;
+    vartrans:target croidioms:LexicalSense_1198_0 .
+
+lidtr:too_many_cooks_spoil_the_broth_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:too_many_cooks_spoil_the_broth_sense ;
+    vartrans:target croidioms:LexicalSense_1516_r_0_1 .
+
+lidtr:when_pigs_fly_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:when_pigs_fly_sense ;
+    vartrans:target croidioms:LexicalSense_1235_0 .
+
+lidtr:you_can_bet_your_life_on_that_trans_en_hr a vartrans:Translation ;
+    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
+    vartrans:source liden:you_can_bet_your_life_on_that_sense ;
+    vartrans:target croidioms:LexicalSense_1546_0 .
+
