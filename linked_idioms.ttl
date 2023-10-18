@@ -13,7 +13,7 @@ lidtr:a_cold_day_in_hell_trans_en_hr a vartrans:Translation ;
 lidtr:add_insult_to_injury_trans_en_hr a vartrans:Translation ;
     vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
     vartrans:source liden:add_insult_to_injury_sense ;
-    vartrans:target croidioms:LexicalSense_1538_r_0_1 .
+    vartrans:target croidioms:LexicalSense_1538_0 .
 
 lidtr:all_in_the_same_boat_trans_en_hr a vartrans:Translation ;
     vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
@@ -143,7 +143,7 @@ lidtr:kill_two_birds_with_one_stone_trans_en_hr a vartrans:Translation ;
 lidtr:la_goccia_che_fa_traboccare_il_vaso_trans_it_hr a vartrans:Translation ;
     vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
     vartrans:source lidit:la_goccia_che_fa_traboccare_il_vaso_sense ;
-    vartrans:target croidioms:LexicalSense_1538_r_0_1 .
+    vartrans:target croidioms:LexicalSense_1538_0 .
 
 lidtr:lasciare_questa_terra_trans_it_hr a vartrans:Translation ;
     vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
@@ -165,7 +165,7 @@ lidtr:mancargli_qualche_rotella_trans_it_hr a vartrans:Translation ;
     vartrans:source lidit:mancargli_qualche_rotella_sense ;
     vartrans:target croidioms:LexicalSense_1360_0 .
 
-lidtr:matar_dois_coelhos_com_uma_cajadada_so_trans_pt_hr a vartrans:Translation ;
+lidtr:matar_dois_coelhos_com_uma_cajadada_só_trans_pt_hr a vartrans:Translation ;
     vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
     vartrans:source lidpt:matar_dois_coelhos_com_uma_cajadada_so_sense ;
     vartrans:target croidioms:LexicalSense_1434_0 .
@@ -230,11 +230,6 @@ lidtr:to_be_broke_trans_en_hr a vartrans:Translation ;
     vartrans:source liden:to_be_broke_sense ;
     vartrans:target croidioms:LexicalSense_1342_0 .
 
-lidtr:to_have_your_cake_and_eat_it_too_trans_en_hr a vartrans:Translation ;
-    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
-    vartrans:source liden:to_have_your_cake_and_eat_it_too_sense ;
-    vartrans:target croidioms:LexicalSense_1198_0 .
-
 lidtr:too_many_cooks_spoil_the_broth_trans_en_hr a vartrans:Translation ;
     vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
     vartrans:source liden:too_many_cooks_spoil_the_broth_sense ;
@@ -244,9 +239,4 @@ lidtr:when_pigs_fly_trans_en_hr a vartrans:Translation ;
     vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
     vartrans:source liden:when_pigs_fly_sense ;
     vartrans:target croidioms:LexicalSense_1235_0 .
-
-lidtr:you_can_bet_your_life_on_that_trans_en_hr a vartrans:Translation ;
-    vartrans:category <http://purl.org/net/translation-categories#culturalEquivalent> ;
-    vartrans:source liden:you_can_bet_your_life_on_that_sense ;
-    vartrans:target croidioms:LexicalSense_1546_0 .
 

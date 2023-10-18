@@ -1260,9 +1260,6 @@ croidioms:Form_1084_r_0_1 a ontolex:Form ;
 croidioms:Form_1086_0 a ontolex:Form ;
     ontolex:writtenRep "baciti se oko vrata komu"@hr .
 
-croidioms:Form_1086_1 a ontolex:Form ;
-    ontolex:writtenRep ""@hr .
-
 croidioms:Form_1086_r_0_1 a ontolex:Form ;
     ontolex:writtenRep "objesiti se oko vrata komu"@hr .
 
@@ -1641,9 +1638,6 @@ croidioms:Form_1181_4 a ontolex:Form ;
 croidioms:Form_1182_0 a ontolex:Form ;
     ontolex:writtenRep "biti u prvim redovima"@hr .
 
-croidioms:Form_1182_1 a ontolex:Form ;
-    ontolex:writtenRep ""@hr .
-
 croidioms:Form_1183_0 a ontolex:Form ;
     ontolex:writtenRep "biti na repu događaja"@hr .
 
@@ -1724,9 +1718,6 @@ croidioms:Form_1194_0 a ontolex:Form ;
 
 croidioms:Form_1195_0 a ontolex:Form ;
     ontolex:writtenRep "biti na izmaku snaga"@hr .
-
-croidioms:Form_1195_1 a ontolex:Form ;
-    ontolex:writtenRep ""@hr .
 
 croidioms:Form_1196_0 a ontolex:Form ;
     ontolex:writtenRep "gurati pod tepih što"@hr .
@@ -4008,9 +3999,6 @@ croidioms:Form_690_r_0_1 a ontolex:Form ;
 croidioms:Form_742_0 a ontolex:Form ;
     ontolex:writtenRep "biti u banani"@hr .
 
-croidioms:Form_742_1 a ontolex:Form ;
-    ontolex:writtenRep ""@hr .
-
 croidioms:Form_744_0 a ontolex:Form ;
     ontolex:writtenRep "biti u govnima"@hr .
 
@@ -4112,9 +4100,6 @@ croidioms:Form_768_1 a ontolex:Form ;
 
 croidioms:Form_770_0 a ontolex:Form ;
     ontolex:writtenRep "lagati kao pas"@hr .
-
-croidioms:Form_770_1 a ontolex:Form ;
-    ontolex:writtenRep ""@hr .
 
 croidioms:Form_778_0 a ontolex:Form ;
     ontolex:writtenRep "čist kao suza"@hr .
@@ -4432,8 +4417,8 @@ croidioms:LexicalConcept_1026 a ontolex:LexicalConcept ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1026_0 .
 
 croidioms:LexicalConcept_1030 a ontolex:LexicalConcept ;
-    skos:definition "to be overly enthusiastic about whom or what, to speak very highly of whom or what"@en,
-        "pretjerano se oduševljavati kime ili čime, jako pohvalno govoriti o kome, čemu"@hr ;
+    skos:definition "to be conceited, to be arrogant"@en,
+        "uobraziti se, biti nadmen"@hr ;
     skos:inScheme croidioms:ConceptSet_1030 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1030_0 .
 
@@ -4533,6 +4518,12 @@ croidioms:LexicalConcept_1177 a ontolex:LexicalConcept ;
     skos:inScheme croidioms:ConceptSet_1177 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1177_0 .
 
+croidioms:LexicalConcept_1182 a ontolex:LexicalConcept ;
+    skos:definition "to stand out, to be the best or the first in something"@en,
+        "isticati se, biti ponajbolji ili prvi u čemu"@hr ;
+    skos:inScheme croidioms:ConceptSet_1182 ;
+    ontolex:lexicalizedSense croidioms:LexicalSense_1182_0 .
+
 croidioms:LexicalConcept_1183 a ontolex:LexicalConcept ;
     skos:definition "not to participate in anything important, to be out of the action"@en,
         "ne sudjelovati u čemu važnome, biti izvan zbivanja"@hr ;
@@ -4550,6 +4541,12 @@ croidioms:LexicalConcept_1194 a ontolex:LexicalConcept ;
         "(o uređaju ili stroju) radi besprijekorno, savršeno"@hr ;
     skos:inScheme croidioms:ConceptSet_1194 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1194_0 .
+
+croidioms:LexicalConcept_1195 a ontolex:LexicalConcept ;
+    skos:definition "to be powerless, listless, demotivated"@en,
+        "biti nemoćan, bezvoljan, demotiviran"@hr ;
+    skos:inScheme croidioms:ConceptSet_1195 ;
+    ontolex:lexicalizedSense croidioms:LexicalSense_1195_0 .
 
 croidioms:LexicalConcept_1197 a ontolex:LexicalConcept ;
     skos:definition "not wanting to speak up when expected (usually in an uncomfortable situation)"@en,
@@ -4630,8 +4627,8 @@ croidioms:LexicalConcept_1251 a ontolex:LexicalConcept ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1251_0 .
 
 croidioms:LexicalConcept_1254 a ontolex:LexicalConcept ;
-    skos:definition "make someone very sad, cause someone to feel hopeless"@en,
-        "jako rastužiti koga, izazvati beznađe kod koga"@hr ;
+    skos:definition "very bad, no good at all"@en,
+        "jako loš, ne valja ništa"@hr ;
     skos:inScheme croidioms:ConceptSet_1254 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1254_0 .
 
@@ -4672,8 +4669,8 @@ croidioms:LexicalConcept_1294 a ontolex:LexicalConcept ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1294_0 .
 
 croidioms:LexicalConcept_1295 a ontolex:LexicalConcept ;
-    skos:definition "go slow, hard"@en,
-        "ići sporo, teško"@hr ;
+    skos:definition "last long"@en,
+        "dugo trajati"@hr ;
     skos:inScheme croidioms:ConceptSet_1295 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1295_0 .
 
@@ -5020,8 +5017,8 @@ croidioms:LexicalConcept_1458 a ontolex:LexicalConcept ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1458_0 .
 
 croidioms:LexicalConcept_1462 a ontolex:LexicalConcept ;
-    skos:definition "to lick oneself, to flatter someone"@en,
-        "ulizivati se, dodvoravati se komu"@hr ;
+    skos:definition "to have problems, care with whom, what"@en,
+        "imati problema, briga s kim, čim"@hr ;
     skos:inScheme croidioms:ConceptSet_1462 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1462_0 .
 
@@ -5038,14 +5035,14 @@ croidioms:LexicalConcept_1464 a ontolex:LexicalConcept ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1464_0 .
 
 croidioms:LexicalConcept_1465 a ontolex:LexicalConcept ;
-    skos:definition "it became a habit, a routine"@en,
-        "postalo je navika, rutina što"@hr ;
+    skos:definition "to be alarmed, to be activated"@en,
+        "uzbuniti se, aktivirati se"@hr ;
     skos:inScheme croidioms:ConceptSet_1465 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1465_0 .
 
 croidioms:LexicalConcept_1466 a ontolex:LexicalConcept ;
-    skos:definition "it became a habit, a routine"@en,
-        "postalo je navika, rutina što"@hr ;
+    skos:definition "to survive, to maintain"@en,
+        "opstati, održati se"@hr ;
     skos:inScheme croidioms:ConceptSet_1466 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1466_0 .
 
@@ -5056,8 +5053,8 @@ croidioms:LexicalConcept_1469 a ontolex:LexicalConcept ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1469_0 .
 
 croidioms:LexicalConcept_1470 a ontolex:LexicalConcept ;
-    skos:definition "half-closed eyes (usually from fatigue)"@en,
-        "poluzatvorene oči (obično od umora)"@hr ;
+    skos:definition "to compete, to fight"@en,
+        "natjecati se, boriti se"@hr ;
     skos:inScheme croidioms:ConceptSet_1470 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1470_0 .
 
@@ -5164,8 +5161,8 @@ croidioms:LexicalConcept_1512 a ontolex:LexicalConcept ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1512_0 .
 
 croidioms:LexicalConcept_1517 a ontolex:LexicalConcept ;
-    skos:definition "when many people are involved in something, it will not work or the result will be bad"@en,
-        "kad je mnogo ljudi uključeno u nešto, to neće uspjeti ili će rezultat biti loš"@hr ;
+    skos:definition "become more modest, reduce arrogance"@en,
+        "postati skromniji, smanjiti bahatost"@hr ;
     skos:inScheme croidioms:ConceptSet_1517 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1517_0 .
 
@@ -5313,15 +5310,27 @@ croidioms:LexicalConcept_1590 a ontolex:LexicalConcept ;
     skos:inScheme croidioms:ConceptSet_1590 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1590_0 .
 
+croidioms:LexicalConcept_742 a ontolex:LexicalConcept ;
+    skos:definition "to be in a bad state, in crisis, to have problems"@en,
+        "biti u lošem stanju, u krizi, imati problema"@hr ;
+    skos:inScheme croidioms:ConceptSet_742 ;
+    ontolex:lexicalizedSense croidioms:LexicalSense_742_0 .
+
 croidioms:LexicalConcept_764 a ontolex:LexicalConcept ;
     skos:definition "to be crazy"@en,
         "biti luckast"@hr ;
     skos:inScheme croidioms:ConceptSet_764 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_764_0 .
 
-croidioms:LexicalConcept_778 a ontolex:LexicalConcept ;
+croidioms:LexicalConcept_770 a ontolex:LexicalConcept ;
     skos:definition "to lie very, shamelessly"@en,
         "jako, besramno lagati"@hr ;
+    skos:inScheme croidioms:ConceptSet_770 ;
+    ontolex:lexicalizedSense croidioms:LexicalSense_770_0 .
+
+croidioms:LexicalConcept_778 a ontolex:LexicalConcept ;
+    skos:definition "honest, moral"@en,
+        "pošten, moralan"@hr ;
     skos:inScheme croidioms:ConceptSet_778 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_778_0 .
 
@@ -5344,8 +5353,8 @@ croidioms:LexicalConcept_807 a ontolex:LexicalConcept ;
     ontolex:lexicalizedSense croidioms:LexicalSense_807_0 .
 
 croidioms:LexicalConcept_823 a ontolex:LexicalConcept ;
-    skos:definition "to be in the same unpleasant situation (adversity)"@en,
-        "biti u istoj neugodnoj situaciji (neprilici)"@hr ;
+    skos:definition "quite clean"@en,
+        "sasvim čist"@hr ;
     skos:inScheme croidioms:ConceptSet_823 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_823_0 .
 
@@ -5356,8 +5365,8 @@ croidioms:LexicalConcept_825 a ontolex:LexicalConcept ;
     ontolex:lexicalizedSense croidioms:LexicalSense_825_0 .
 
 croidioms:LexicalConcept_831 a ontolex:LexicalConcept ;
-    skos:definition "extremely white in color"@en,
-        "izrazito bijele boje"@hr ;
+    skos:definition "not subject to emotions, indifferent"@en,
+        "koji ne podliježe emocijama, ravnodušan"@hr ;
     skos:inScheme croidioms:ConceptSet_831 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_831_0 .
 
@@ -6072,14 +6081,6 @@ croidioms:LexicalEntry_1086_0 a ontolex:LexicalEntry,
     dct:language <http://lexvo.org/id/iso639-1/hr> ;
     ontolex:canonicalForm croidioms:Form_1086_0 ;
     ontolex:sense croidioms:LexicalSense_1086_0 .
-
-croidioms:LexicalEntry_1086_1 a ontolex:LexicalEntry,
-        ontolex:MultiWordExpression ;
-    rdfs:label ""@hr ;
-    lexinfo:termType lexinfo:idiom ;
-    lexvo:usedIn <https://dbpedia.org/page/Croatia> ;
-    ontolex:canonicalForm croidioms:Form_1086_1 ;
-    ontolex:sense croidioms:LexicalSense_1086_1 .
 
 croidioms:LexicalEntry_1086_r_0_1 a ontolex:LexicalEntry,
         ontolex:MultiWordExpression ;
@@ -7117,14 +7118,6 @@ croidioms:LexicalEntry_1182_0 a ontolex:LexicalEntry,
     ontolex:canonicalForm croidioms:Form_1182_0 ;
     ontolex:sense croidioms:LexicalSense_1182_0 .
 
-croidioms:LexicalEntry_1182_1 a ontolex:LexicalEntry,
-        ontolex:MultiWordExpression ;
-    rdfs:label ""@hr ;
-    lexinfo:termType lexinfo:idiom ;
-    lexvo:usedIn <https://dbpedia.org/page/Croatia> ;
-    ontolex:canonicalForm croidioms:Form_1182_1 ;
-    ontolex:sense croidioms:LexicalSense_1182_1 .
-
 croidioms:LexicalEntry_1183_0 a ontolex:LexicalEntry,
         ontolex:MultiWordExpression ;
     rdfs:label "biti na repu događaja"@hr ;
@@ -7343,14 +7336,6 @@ croidioms:LexicalEntry_1195_0 a ontolex:LexicalEntry,
     dct:language <http://lexvo.org/id/iso639-1/hr> ;
     ontolex:canonicalForm croidioms:Form_1195_0 ;
     ontolex:sense croidioms:LexicalSense_1195_0 .
-
-croidioms:LexicalEntry_1195_1 a ontolex:LexicalEntry,
-        ontolex:MultiWordExpression ;
-    rdfs:label ""@hr ;
-    lexinfo:termType lexinfo:idiom ;
-    lexvo:usedIn <https://dbpedia.org/page/Croatia> ;
-    ontolex:canonicalForm croidioms:Form_1195_1 ;
-    ontolex:sense croidioms:LexicalSense_1195_1 .
 
 croidioms:LexicalEntry_1196_0 a ontolex:LexicalEntry,
         ontolex:MultiWordExpression ;
@@ -13633,14 +13618,6 @@ croidioms:LexicalEntry_742_0 a ontolex:LexicalEntry,
     ontolex:canonicalForm croidioms:Form_742_0 ;
     ontolex:sense croidioms:LexicalSense_742_0 .
 
-croidioms:LexicalEntry_742_1 a ontolex:LexicalEntry,
-        ontolex:MultiWordExpression ;
-    rdfs:label ""@hr ;
-    lexinfo:termType lexinfo:idiom ;
-    lexvo:usedIn <https://dbpedia.org/page/Croatia> ;
-    ontolex:canonicalForm croidioms:Form_742_1 ;
-    ontolex:sense croidioms:LexicalSense_742_1 .
-
 croidioms:LexicalEntry_744_0 a ontolex:LexicalEntry,
         ontolex:MultiWordExpression ;
     rdfs:label "biti u govnima"@hr ;
@@ -13893,14 +13870,6 @@ croidioms:LexicalEntry_770_0 a ontolex:LexicalEntry,
     dct:language <http://lexvo.org/id/iso639-1/hr> ;
     ontolex:canonicalForm croidioms:Form_770_0 ;
     ontolex:sense croidioms:LexicalSense_770_0 .
-
-croidioms:LexicalEntry_770_1 a ontolex:LexicalEntry,
-        ontolex:MultiWordExpression ;
-    rdfs:label ""@hr ;
-    lexinfo:termType lexinfo:idiom ;
-    lexvo:usedIn <https://dbpedia.org/page/Croatia> ;
-    ontolex:canonicalForm croidioms:Form_770_1 ;
-    ontolex:sense croidioms:LexicalSense_770_1 .
 
 croidioms:LexicalEntry_778_0 a ontolex:LexicalEntry,
         ontolex:MultiWordExpression ;
@@ -14819,6 +14788,13 @@ croidioms:LexicalConcept_1082 a ontolex:LexicalConcept ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1082_0,
         croidioms:LexicalSense_1082_1 .
 
+croidioms:LexicalConcept_1086 a ontolex:LexicalConcept ;
+    skos:definition "hug someone"@en,
+        "zagrliti koga"@hr ;
+    skos:inScheme croidioms:ConceptSet_1086 ;
+    ontolex:lexicalizedSense croidioms:LexicalSense_1086_0,
+        croidioms:LexicalSense_1086_r_0_1 .
+
 croidioms:LexicalConcept_1092 a ontolex:LexicalConcept ;
     skos:definition "to be very afraid of whom, what"@en,
         "jako se bojati koga, čega"@hr ;
@@ -14945,13 +14921,6 @@ croidioms:LexicalConcept_1178 a ontolex:LexicalConcept ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1178_0,
         croidioms:LexicalSense_1178_1 .
 
-croidioms:LexicalConcept_1182 a ontolex:LexicalConcept ;
-    skos:definition "to stand out, to be the best or the first in something"@en,
-        "isticati se, biti ponajbolji ili prvi u čemu"@hr ;
-    skos:inScheme croidioms:ConceptSet_1182 ;
-    ontolex:lexicalizedSense croidioms:LexicalSense_1182_0,
-        croidioms:LexicalSense_1182_1 .
-
 croidioms:LexicalConcept_1187 a ontolex:LexicalConcept ;
     skos:definition "to disturb, to provoke someone"@en,
         "uznemiriti, isprovocirati koga"@hr ;
@@ -14980,16 +14949,9 @@ croidioms:LexicalConcept_1193 a ontolex:LexicalConcept ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1193_0,
         croidioms:LexicalSense_1193_1 .
 
-croidioms:LexicalConcept_1195 a ontolex:LexicalConcept ;
-    skos:definition "(of a device or machine) works flawlessly, perfectly"@en,
-        "(o uređaju ili stroju) radi besprijekorno, savršeno"@hr ;
-    skos:inScheme croidioms:ConceptSet_1195 ;
-    ontolex:lexicalizedSense croidioms:LexicalSense_1195_0,
-        croidioms:LexicalSense_1195_1 .
-
 croidioms:LexicalConcept_1199 a ontolex:LexicalConcept ;
-    skos:definition "to have both, both things simultaneously to one's own advantage"@en,
-        "imati i jedno i drugo, obje stvari istovremeno na vlastitu korist"@hr ;
+    skos:definition "dangerous, risky"@en,
+        "opasno, riskantno"@hr ;
     skos:inScheme croidioms:ConceptSet_1199 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1199_0,
         croidioms:LexicalSense_1199_r_0_1 .
@@ -15065,8 +15027,8 @@ croidioms:LexicalConcept_1224 a ontolex:LexicalConcept ;
         croidioms:LexicalSense_1224_r_0_1 .
 
 croidioms:LexicalConcept_1227 a ontolex:LexicalConcept ;
-    skos:definition "to experience unexpected inconvenience, difficulty"@en,
-        "doživjeti neočekivanu neugodnost, poteškoću"@hr ;
+    skos:definition "to cease to exist, to die out"@en,
+        "prestati postojati, izumrijeti"@hr ;
     skos:inScheme croidioms:ConceptSet_1227 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1227_0,
         croidioms:LexicalSense_1227_1 .
@@ -15149,8 +15111,8 @@ croidioms:LexicalConcept_1252 a ontolex:LexicalConcept ;
         croidioms:LexicalSense_1252_r_0_1 .
 
 croidioms:LexicalConcept_1256 a ontolex:LexicalConcept ;
-    skos:definition "very bad, nothing good"@en,
-        "jako loš, ništa ne valja"@hr ;
+    skos:definition "be in bad condition"@en,
+        "biti u lošem stanju"@hr ;
     skos:inScheme croidioms:ConceptSet_1256 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1256_0,
         croidioms:LexicalSense_1256_1 .
@@ -15247,8 +15209,8 @@ croidioms:LexicalConcept_1285 a ontolex:LexicalConcept ;
         croidioms:LexicalSense_1285_1 .
 
 croidioms:LexicalConcept_1286 a ontolex:LexicalConcept ;
-    skos:definition "to trust that past successes will hold forever and to cover up current failures or passivity"@en,
-        "pouzdati se u to da će prijašnji uspjesi vrijediti zauvijek i prikriti sadašnje neuspjehe ili pasivnost"@hr ;
+    skos:definition "die"@en,
+        "umrijeti"@hr ;
     skos:inScheme croidioms:ConceptSet_1286 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1286_0,
         croidioms:LexicalSense_1286_r_0_1 .
@@ -15772,8 +15734,8 @@ croidioms:LexicalConcept_1544 a ontolex:LexicalConcept ;
         croidioms:LexicalSense_1544_r_0_1 .
 
 croidioms:LexicalConcept_1548 a ontolex:LexicalConcept ;
-    skos:definition "without order or sense, confused"@en,
-        "bez reda i smisla, smušeno"@hr ;
+    skos:definition "to destroy, to ruin someone"@en,
+        "uništiti, upropastiti koga"@hr ;
     skos:inScheme croidioms:ConceptSet_1548 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1548_0,
         croidioms:LexicalSense_1548_r_0_1 .
@@ -15890,13 +15852,6 @@ croidioms:LexicalConcept_690 a ontolex:LexicalConcept ;
     ontolex:lexicalizedSense croidioms:LexicalSense_690_0,
         croidioms:LexicalSense_690_r_0_1 .
 
-croidioms:LexicalConcept_742 a ontolex:LexicalConcept ;
-    skos:definition "to be in a bad state, in crisis, to have problems"@en,
-        "biti u lošem stanju, u krizi, imati problema"@hr ;
-    skos:inScheme croidioms:ConceptSet_742 ;
-    ontolex:lexicalizedSense croidioms:LexicalSense_742_0,
-        croidioms:LexicalSense_742_1 .
-
 croidioms:LexicalConcept_746 a ontolex:LexicalConcept ;
     skos:definition "to find yourself in a difficult situation, in trouble"@en,
         "naći se u teškoj situaciji, u neprilici"@hr ;
@@ -15931,13 +15886,6 @@ croidioms:LexicalConcept_768 a ontolex:LexicalConcept ;
     skos:inScheme croidioms:ConceptSet_768 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_768_0,
         croidioms:LexicalSense_768_1 .
-
-croidioms:LexicalConcept_770 a ontolex:LexicalConcept ;
-    skos:definition "to lie very, shamelessly"@en,
-        "jako, besramno lagati"@hr ;
-    skos:inScheme croidioms:ConceptSet_770 ;
-    ontolex:lexicalizedSense croidioms:LexicalSense_770_0,
-        croidioms:LexicalSense_770_1 .
 
 croidioms:LexicalConcept_789 a ontolex:LexicalConcept ;
     skos:definition "to go crazy, to behave abnormally"@en,
@@ -16010,8 +15958,8 @@ croidioms:LexicalConcept_939 a ontolex:LexicalConcept ;
         croidioms:LexicalSense_939_1 .
 
 croidioms:LexicalConcept_943 a ontolex:LexicalConcept ;
-    skos:definition "to be lenient towards someone"@en,
-        "biti popustljiv prema komu"@hr ;
+    skos:definition "to be harshly criticized, reprimanded"@en,
+        "biti oštro iskritiziran, ukoren"@hr ;
     skos:inScheme croidioms:ConceptSet_943 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_943_0,
         croidioms:LexicalSense_943_1 .
@@ -16378,10 +16326,6 @@ croidioms:LexicalSense_1084_r_0_1 a ontolex:LexicalSense ;
 croidioms:LexicalSense_1086_0 a ontolex:LexicalSense ;
     ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_1086 ;
     ontolex:isSenseOf croidioms:LexicalEntry_1086_0 .
-
-croidioms:LexicalSense_1086_1 a ontolex:LexicalSense ;
-    ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_1086 ;
-    ontolex:isSenseOf croidioms:LexicalEntry_1086_1 .
 
 croidioms:LexicalSense_1086_r_0_1 a ontolex:LexicalSense ;
     ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_1086 ;
@@ -16877,10 +16821,6 @@ croidioms:LexicalSense_1182_0 a ontolex:LexicalSense ;
     ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_1182 ;
     ontolex:isSenseOf croidioms:LexicalEntry_1182_0 .
 
-croidioms:LexicalSense_1182_1 a ontolex:LexicalSense ;
-    ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_1182 ;
-    ontolex:isSenseOf croidioms:LexicalEntry_1182_1 .
-
 croidioms:LexicalSense_1183_0 a ontolex:LexicalSense ;
     ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_1183 ;
     ontolex:isSenseOf croidioms:LexicalEntry_1183_0 .
@@ -16984,10 +16924,6 @@ croidioms:LexicalSense_1194_0 a ontolex:LexicalSense ;
 croidioms:LexicalSense_1195_0 a ontolex:LexicalSense ;
     ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_1195 ;
     ontolex:isSenseOf croidioms:LexicalEntry_1195_0 .
-
-croidioms:LexicalSense_1195_1 a ontolex:LexicalSense ;
-    ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_1195 ;
-    ontolex:isSenseOf croidioms:LexicalEntry_1195_1 .
 
 croidioms:LexicalSense_1196_0 a ontolex:LexicalSense ;
     ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_1196 ;
@@ -19909,10 +19845,6 @@ croidioms:LexicalSense_742_0 a ontolex:LexicalSense ;
     ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_742 ;
     ontolex:isSenseOf croidioms:LexicalEntry_742_0 .
 
-croidioms:LexicalSense_742_1 a ontolex:LexicalSense ;
-    ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_742 ;
-    ontolex:isSenseOf croidioms:LexicalEntry_742_1 .
-
 croidioms:LexicalSense_744_0 a ontolex:LexicalSense ;
     ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_744 ;
     ontolex:isSenseOf croidioms:LexicalEntry_744_0 .
@@ -20024,10 +19956,6 @@ croidioms:LexicalSense_768_1 a ontolex:LexicalSense ;
 croidioms:LexicalSense_770_0 a ontolex:LexicalSense ;
     ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_770 ;
     ontolex:isSenseOf croidioms:LexicalEntry_770_0 .
-
-croidioms:LexicalSense_770_1 a ontolex:LexicalSense ;
-    ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_770 ;
-    ontolex:isSenseOf croidioms:LexicalEntry_770_1 .
 
 croidioms:LexicalSense_778_0 a ontolex:LexicalSense ;
     ontolex:isLexicalizedSenseOf croidioms:LexicalConcept_778 ;
@@ -20494,14 +20422,6 @@ croidioms:LexicalConcept_1084 a ontolex:LexicalConcept ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1084_0,
         croidioms:LexicalSense_1084_1,
         croidioms:LexicalSense_1084_r_0_1 .
-
-croidioms:LexicalConcept_1086 a ontolex:LexicalConcept ;
-    skos:definition "hug someone"@en,
-        "zagrliti koga"@hr ;
-    skos:inScheme croidioms:ConceptSet_1086 ;
-    ontolex:lexicalizedSense croidioms:LexicalSense_1086_0,
-        croidioms:LexicalSense_1086_1,
-        croidioms:LexicalSense_1086_r_0_1 .
 
 croidioms:LexicalConcept_1088 a ontolex:LexicalConcept ;
     skos:definition "bother someone or what, prevent someone or what"@en,
@@ -21040,8 +20960,8 @@ croidioms:LexicalConcept_1433 a ontolex:LexicalConcept ;
         croidioms:LexicalSense_1433_2 .
 
 croidioms:LexicalConcept_1436 a ontolex:LexicalConcept ;
-    skos:definition "not to stand out, stand out less because of who, what"@en,
-        "ne dolaziti do izražaja, manje se isticati zbog koga, čega"@hr ;
+    skos:definition "to close the door in front of someone"@en,
+        "zatvoriti vrata ispred koga"@hr ;
     skos:inScheme croidioms:ConceptSet_1436 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1436_0,
         croidioms:LexicalSense_1436_1,
@@ -21104,8 +21024,8 @@ croidioms:LexicalConcept_1461 a ontolex:LexicalConcept ;
         croidioms:LexicalSense_1461_r_0_1 .
 
 croidioms:LexicalConcept_1473 a ontolex:LexicalConcept ;
-    skos:definition "much better than who, what"@en,
-        "puno bolji od koga, čega"@hr ;
+    skos:definition "encourage someone to act, for example advocacy or protest"@en,
+        "potaknuti koga na djelovanje, npr. zalaganje ili negodovanje"@hr ;
     skos:inScheme croidioms:ConceptSet_1473 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_1473_0,
         croidioms:LexicalSense_1473_1,
@@ -21312,8 +21232,8 @@ croidioms:LexicalConcept_921 a ontolex:LexicalConcept ;
         croidioms:LexicalSense_921_r_0_2 .
 
 croidioms:LexicalConcept_963 a ontolex:LexicalConcept ;
-    skos:definition "baseless, without knowing what to do or talk about"@en,
-        "neutemeljeno, bez znanja raditi što ili govoriti o čemu"@hr ;
+    skos:definition "not being able to see in front of you due to darkness, fog or any other obstacle"@en,
+        "ne vidjeti ispred sebe zbog mraka, magle ili kakve druge zapreke"@hr ;
     skos:inScheme croidioms:ConceptSet_963 ;
     ontolex:lexicalizedSense croidioms:LexicalSense_963_0,
         croidioms:LexicalSense_963_1,
